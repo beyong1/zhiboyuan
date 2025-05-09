@@ -1388,11 +1388,11 @@ http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林地方",长春文旅体育
 http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
-#EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林都市.png" group-title=""吉林地方",吉林都市
+#EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林都市.png" group-title="吉林地方",吉林都市
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8095cf&tk=6949f8ce7202
-#EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林生活.png" group-title=""吉林地方",吉林生活
+#EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林生活.png" group-title="吉林地方",吉林生活
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b17091&tk=6949f8ce7202
-#EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林乡村.png" group-title=""吉林地方",吉林乡村
+#EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林乡村.png" group-title="吉林地方",吉林乡村
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9a925c&tk=6949f8ce7202
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
