@@ -418,7 +418,10 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 文物宝库,http://39.135.126.66:6610/PLTV/11/224/3221227359/index.m3u8?servicetype=1
 武术世界,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227487/index.m3u8
 武术世界,http://39.135.126.66:6610/PLTV/11/224/3221227487/index.m3u8?servicetype=1
-
+求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
+求索纪录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+求索生活,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 卫视频道,#genre#
 北京卫视,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226666/index.m3u8
 北京卫视,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226724/index.m3u8
@@ -1081,9 +1084,9 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 西藏卫视,http://39.135.126.66:6610/PLTV/11/224/3221226896/index.m3u8?servicetype=1
 兵团卫视,http://8.138.7.223/tv/btws.m3u8$FHD
 
-兵团卫视,http://8.138.7.223/tv/btws.m3u8
+兵团卫视,http://8.138.7.223/tv/btws.m3u8$FHD
 
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$FHD
 兵团卫视,http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226439/index.m3u8?IAS兵团卫视,httpSessionId=
@@ -1123,7 +1126,7 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 农林卫视,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227108/index.m3u8
 农林卫视,http://39.135.126.66:6610/PLTV/11/224/3221227108/index.m3u8?servicetype=1
 农林卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227108/index.m3u8
-内蒙古蒙语,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+
 
 西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy$FHD
 西藏藏语,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227157/index.m3u8
@@ -1330,6 +1333,7 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+内蒙古蒙语,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
@@ -1352,8 +1356,6 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江之江纪录https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
-浙江之江纪录中国蓝,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-浙江经济中国蓝,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -1363,7 +1365,6 @@ CCTV中视购物,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
-浙江钱江中国蓝,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江青田电视台,http://play-sh13.quklive.com/live/1692755062081192.m3u8?auth_key=2028414252-b15176e05a684b589d12314dfabf6225-0-d175afe86fbea31e2eb167a6dd06cd4f
@@ -2510,7 +2511,29 @@ Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-
+家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
+都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+ 
 咪咕线路,#genre#
 CCTV1,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
 CCTV2,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
