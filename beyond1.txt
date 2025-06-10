@@ -2101,65 +2101,26 @@ NewTV频道,#genre#
 MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-TVB1,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB1,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台北美版(TVB J1),https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB无线新闻台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-翡翠娱乐新闻台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-翡翠娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-翡翠娱乐新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-翡翠娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
-TVB,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-千禧经典台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-凤凰资讯,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-美亚电影台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影台,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-天映频道,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Celestial2
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial
-Astro AOD,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Aodhd
-Astro AEC,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=AEC
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 astro Prima,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 astro Prima,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 astro Prima,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro欢喜台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Huahee
-TVB Plus,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-HOY TV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-澳视澳门,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
-香港卫视台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-香港卫视台,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-RTHK31,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-RTHK32,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK32,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 探索亚州CCM,http://php.jdshipin.com/smt.php?id=Celestial2
@@ -2169,7 +2130,6 @@ FVA,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 澳六图库,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 iQIYI爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 iQIYI爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-iQIYI爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/smt.php?id=Qiyi
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 台视新闻台,http://222.128.55.152:9080/live/ts.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -2177,56 +2137,88 @@ iQIYI爱奇艺,https://mg.345564.xyz/proxy.php?url=http://php.jdshipin.com:8880/
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光电影,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-凤凰中文,http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
-凤凰资讯,http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
-英语动漫,#genre#
-Angry Birds,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=188
-Bermuda,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=190
-Camp Spoopy,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
-Hedgehog,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=201
-Kids Flix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-PBS Kids Eastern/Central,https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-Toon Goggles,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=157
-Tom Cat,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=100
-Kids tv,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/4300.m3u8
-儿童33,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
-儿童34,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
-儿童35,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
-儿童40,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=40
-儿童41,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
-儿童71,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-儿童84,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=84
-儿童125,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=125
-儿童134,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=134
-儿童142,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=142
-儿童143,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=143
-儿童221,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=221
-儿童285,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=285
-儿童291,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=291
-儿童286,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=286
-儿童294,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=294
-儿童英语,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-儿童英语,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=515
-比诺电视台动画,https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
-游戏,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=145
-韩语424,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=424
-韩语425,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
-韩语426,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=426
-赛车,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=445
-台球,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=297
-COOKINGPANPA,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=180
-NEWSMAX2,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=380
-OutsideTV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=379
-采访80,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=80
-电影45,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=45
-电影53,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=53
-电影81,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=81
+RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+咪咕线路,#genre#
+CCTV1,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
+CCTV2,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
+CCTV3,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
+CCTV4,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4
+CCTV4美洲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4a
+CCTV4欧洲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4o
+CCTV5,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5
+CCTV5+,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5p
+CCTV6,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv6
+CCTV7,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv7
+CCTV8,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv8
+CCTV9,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv9
+CCTV10,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv10
+CCTV11,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv11
+CCTV12,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv12
+CCTV13,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv13
+CCTV14,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv14
+CCTV15,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv15
+CCTV17,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv17
+CCTV发现之旅,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=fxzl
+CCTV老故事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lgs
+CCTV中学生,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=zxs
+CGTN,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtn
+CGTN纪录,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnjl
+CCTV西班牙语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtne
+CCTV法语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnf
+CCTV阿拉伯语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtna
+CCTV俄语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnr
+东方卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dfws
+吉林卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jlws
+辽宁卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lnws
+青海卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=qhws
+陕西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sxws
+河南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hnws
+湖北卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hubws
+江西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jxws
+江苏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsws
+广东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gdws
+大湾区卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dwqws
+海南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hinws
+东方影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dfys
+上海新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=shxwzh
+上海第一财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dycj
+江苏城市,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jscs
+江苏综艺,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jszy
+江苏影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsys
+江苏公共新闻,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsggxw
+江苏国际,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsgj
+江苏教育,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsjy
+江苏体育休闲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jstyxx
+优漫卡通,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=ymkt
+南京新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njxwzh
+南京教科,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njkj
+南京十八,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njsb
+淮安新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=haxwzh
+连云港新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lygxwzh
+泰州新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=tzxwzh
+宿迁新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sqxwzh
+徐州新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xzxwzh
+广东影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gdys
+高清大片,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gqdp
+咪咕24小时体育台,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=mg24hty
+赛事最经典,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sszjd
+体坛名栏汇,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=ttmlh
+新片放映厅,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xpfyt
+
 4K频道,#genre#
 北京卫视4K超高清,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227001/index.m3u8
 北京卫视4K超高清,http://39.135.126.66:6610/PLTV/11/224/3221227001/index.m3u8?servicetype=1
@@ -2340,72 +2332,7 @@ Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3
 咪咕视频36,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=yu&mode=1&
 咪咕视频37,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=yu&mode=1&
 咪咕视频38,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=yu&mode=1&
-咪咕线路,#genre#
-CCTV1,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
-CCTV2,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
-CCTV3,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
-CCTV4,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4
-CCTV4美洲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4a
-CCTV4欧洲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4o
-CCTV5,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5
-CCTV5+,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5p
-CCTV6,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv6
-CCTV7,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv7
-CCTV8,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv8
-CCTV9,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv9
-CCTV10,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv10
-CCTV11,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv11
-CCTV12,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv12
-CCTV13,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv13
-CCTV14,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv14
-CCTV15,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv15
-CCTV17,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv17
-CCTV发现之旅,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=fxzl
-CCTV老故事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lgs
-CCTV中学生,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=zxs
-CGTN,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtn
-CGTN纪录,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnjl
-CCTV西班牙语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtne
-CCTV法语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnf
-CCTV阿拉伯语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtna
-CCTV俄语,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cgtnr
-东方卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dfws
-吉林卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jlws
-辽宁卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lnws
-青海卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=qhws
-陕西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sxws
-河南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hnws
-湖北卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hubws
-江西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jxws
-江苏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsws
-广东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gdws
-大湾区卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dwqws
-海南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hinws
-东方影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dfys
-上海新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=shxwzh
-上海第一财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dycj
-江苏城市,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jscs
-江苏综艺,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jszy
-江苏影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsys
-江苏公共新闻,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsggxw
-江苏国际,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsgj
-江苏教育,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsjy
-江苏体育休闲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jstyxx
-优漫卡通,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=ymkt
-南京新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njxwzh
-南京教科,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njkj
-南京十八,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=njsb
-淮安新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=haxwzh
-连云港新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lygxwzh
-泰州新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=tzxwzh
-宿迁新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sqxwzh
-徐州新闻综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xzxwzh
-广东影视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gdys
-高清大片,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gqdp
-咪咕24小时体育台,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=mg24hty
-赛事最经典,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sszjd
-体坛名栏汇,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=ttmlh
-新片放映厅,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xpfyt
+
 🐼移动专区,#genre#
 CCTV1HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
 CCTV2HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225588/.m3u8
@@ -3371,9 +3298,9 @@ GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playli
 GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 GoodTV,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
